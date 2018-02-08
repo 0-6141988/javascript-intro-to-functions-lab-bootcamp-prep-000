@@ -8,7 +8,6 @@ function shout (string) {
    
  }
  
- function logshout (string) {
-   console.log(
-     )
+ function logShout (string) {
+   console.log()
  }
