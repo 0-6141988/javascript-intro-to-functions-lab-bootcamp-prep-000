@@ -9,5 +9,6 @@ function shout (string) {
  }
  
  function logshout (string) {
-   
+   console.log(
+     )
  }
